@@ -1,6 +1,17 @@
 # Blendenmessung
 Berechnung des Massestroms mittels Messwerte (p, dp, T) einer Messblende (D, d)
 
+## Abhängigkeiten
+
+numpy       >= 1.21.6
+coolprop    >= 6.4.1
+tkinter     >= 8.6
+
+## Massestromberechnung nach DIN EN ISO 5167-1 und DIN EN ISO 5167-2 
+
+
+
+## Lizenz GPL3.0
 
 Copyright (C) 2022  Sebastian Sturm
 
